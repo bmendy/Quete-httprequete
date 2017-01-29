@@ -1,0 +1,9 @@
+body {
+	background:url("bluesky_mini.jpg");
+	background-repeat: repeat;
+}
+.container form {
+	margin-top: 25%;
+}
+ * {font-family: 'Raleway', sans-serif;
+font-size: 30px;}
